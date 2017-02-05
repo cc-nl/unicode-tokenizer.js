@@ -1,0 +1,26 @@
+{
+  "name": "unicode-tokenizer",
+  "version": "1.0.0",
+  "description": "Unicode aware tokenizer that (roughly) groups characters in general categories",
+  "main": "unicode-tokenizer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cc-nl/unicode-tokenizer.js.git"
+  },
+  "keywords": [
+    "tokenizer",
+    "Unicode"
+  ],
+  "author": "Michal van Zelm (Clean Code)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cc-nl/unicode-tokenizer.js/issues"
+  },
+  "homepage": "https://github.com/cc-nl/unicode-tokenizer.js#readme",
+  "dependencies": {
+    "xregexp": "^3.1.1"
+  }
+}
