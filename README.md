@@ -1,3 +1,15 @@
+# Installation
+
+Add a dependency to your package.json like this:
+
+{
+  ...
+  "dependencies": {
+    ...
+    "unicode-tokenizer": "cc-nl/unicode-tokenizer.js"
+  }
+}
+
 # Usage
 
 Require the package which exports a function. The function takes a String
